@@ -1,4 +1,4 @@
-package com.mycompany.dayfinder;
+package com.mycompany.shotmaster;
 
 public class SystemInfo {
 

@@ -1,4 +1,4 @@
-package com.mycompany.dayfinder;
+package com.mycompany.shotmaster;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
